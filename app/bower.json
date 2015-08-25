@@ -1,0 +1,24 @@
+{
+  "name": "my-robot-py",
+  "version": "0.0.0",
+  "homepage": "https://github.com/elisium/my-robot-py",
+  "authors": [
+    "redbeard <gaevalexey@gmail.com>"
+  ],
+  "keywords": [
+    "robot"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "socket.io-client": "~1.3.6"
+  }
+}

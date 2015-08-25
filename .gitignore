@@ -1,3 +1,4 @@
 lib/
 .git/
 app/__pycache__/
+app/bower_components/
